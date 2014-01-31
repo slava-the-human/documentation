@@ -11,7 +11,7 @@
 ## Российкие законы
 
 * Концепция внешней политики Российской Федерации (далее - Концепция) представляет собой систему взглядов на базовые принципы, приоритетные направления, цели и задачи внешнеполитической деятельности Российской Федерации
-// [МИД РФ, Концепция внешней политики РФ][3]
+// [МИД РФ, Концепция внешней политики РФ] [3]
 
 
 * Настоящая Концепция представляет собой систему взглядов на 
@@ -62,4 +62,4 @@ __CISA Review Manual 2013 (2.3.4)__
 * __Process integration__ - This focuses on the integration of an organization's management assurance process for secirity. Security activities are at times fragmented and segmented in silos with differet reporting structures. This makes it dufficult, if not impossible, to seamlessly integrate them. Process integration serves to improve overall security and operational effeciencies.
 
 ***
-[3] http://www.mid.ru/brp_4.nsf/0/6D84DDEDEDBF7DA644257B160051BF7F (Концепция внешней политики РФ)
+[3]: http://www.mid.ru/brp_4.nsf/0/6D84DDEDEDBF7DA644257B160051BF7F (Концепция внешней политики РФ)
